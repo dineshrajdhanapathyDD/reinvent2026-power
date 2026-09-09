@@ -1,0 +1,21 @@
+{
+  "name": "reinvent2026",
+  "version": "1.0.0",
+  "description": "Search the AWS re:Invent 2026 session catalog (keyword + semantic), look up venues and campus travel, and get official AWS links - as MCP tools.",
+  "author": {
+    "name": "DD",
+    "url": "https://github.com/dineshrajdhanapathyDD"
+  },
+  "keywords": [
+    "reinvent",
+    "reinvent2026",
+    "aws sessions",
+    "session catalog",
+    "aws reinvent",
+    "schedule",
+    "reroute"
+  ],
+  "homepage": "https://github.com/dineshrajdhanapathyDD/reinvent2026-mcp",
+  "repository": "https://github.com/dineshrajdhanapathyDD/reinvent2026-mcp",
+  "license": "MIT"
+}

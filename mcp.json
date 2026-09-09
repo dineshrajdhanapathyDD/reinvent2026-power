@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "reinvent2026": {
+      "type": "stdio",
+      "command": "reinvent2026-mcp",
+      "args": [],
+      "disabled": false,
+      "autoApprove": [
+        "catalog_status",
+        "search_sessions",
+        "semantic_search",
+        "get_session",
+        "list_venues",
+        "estimate_travel",
+        "official_links"
+      ]
+    }
+  }
+}
